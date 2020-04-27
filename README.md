@@ -14,7 +14,7 @@
 7. You're now ready to bomb :)
 
 ## Note
-1. Don't forgot to change the pdf name in line 32 if you're using your own pdf.
+1. Don't forgot to change the pdf name in line 16 if you're using your own pdf.
 2. Also Install selenium and PyPDF2 in Pychar by howering over them line 1 and 3.
 
 ### Don't forget to STAR the repository :)
